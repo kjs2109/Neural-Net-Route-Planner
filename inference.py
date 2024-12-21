@@ -46,22 +46,8 @@ def inference_test(model, start, goal):
 
 if __name__ == '__main__':
 
-    start = [14, 4] # [14, 4],  # [10, 20], 
-    # start = [40, 50]
+    start = [14, 4] 
     goal = [69, 59]
-
-    # [29] Dice: 0.78 
-    # start = [4, 22] 
-    # goal = [81, 22] 
-
-    start = [10, 50] 
-    goal = [72, 4] 
-
-    # start = [75, 54] 
-    # goal = [5, 30] 
-
-    start = [28, 11] 
-    goal = [57, 43]
 
     # model = ConvNet() 
     # model.load_state_dict(torch.load('/workspace/neural-nets-route-planner/checkpoints/U-resnet34/last_model.ckpt')) 

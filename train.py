@@ -147,7 +147,7 @@ if __name__ == '__main__':
 
     # Hyper parameters
     hyperparameters = {
-        "num_epochs": 11,
+        "num_epochs": 1000,
         "num_classes": 1,
         "batch_size": 400,
         "learning_rate": 0.0001, 

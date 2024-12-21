@@ -104,8 +104,8 @@ def main(v, number_of_data, parking_lot, searching, show, show_process):
 if __name__ == '__main__': 
     start = time.time() 
 
-    v = 2  # version of dataset 
-    number_of_data = 1000 
+    v = 1  # version of dataset 
+    number_of_data = 20000 
     parking_lot = ParkingLot()
     searching = AStarRoutePlanner(parking_lot)  # searching = HybridAStarRoutePlanner(parking_lot)
     show = False 
