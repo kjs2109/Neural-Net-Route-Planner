@@ -1,4 +1,4 @@
 # Neural-Net-Route-Planner
 <p align="center">
-<img src="https://github.com/user-attachments/assets/d0d7cd5b-b46f-4585-b5c5-a2e4f6f4e2ee"> 
+<img src="https://github.com/user-attachments/assets/86649861-fd77-4e71-8995-7d74acac72d3"> 
 </p>
