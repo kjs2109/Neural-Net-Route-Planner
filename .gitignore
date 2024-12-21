@@ -1,0 +1,13 @@
+/checkpoints/
+/dataset/data/
+/dataset/label/
+/dataset/inference/
+/testdataset/
+
+/__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*/*/*/__pycache__/
+
+*.csv
+*.ckpt
