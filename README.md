@@ -7,4 +7,4 @@
 * 랜덤으로 생성된 출발점과 목표점의 경로 생성 시간 측정 
 * 시행 횟수: 20000 
 
-![inference_time](./.git/그림1.png)
+![inference_time](./readme/그림1.png)
